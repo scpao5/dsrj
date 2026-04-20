@@ -27,7 +27,8 @@
 
 ## 📥 文件下载（本地文件）
 
-- **链接**：[^百度网盘^](https://pan.baidu.com/s/1fwR5bpk6MD7AUeFFY3SqSQ?pwd=9191)[^木极直链网盘^](https://pan.tenire.com/down.php/6ca285212dd318d654fe41b3cf068f34.html)
+- **链接**：[百度网盘](https://pan.baidu.com/s/1fwR5bpk6MD7AUeFFY3SqSQ?pwd=9191)
+[木极直链网盘](https://pan.tenire.com/down.php/6ca285212dd318d654fe41b3cf068f34.html)
 - **提取码**：`9191`
 
 ## 📱 手机游玩注意事项
