@@ -20,7 +20,7 @@
 
 **推荐使用以下地址，由 GitHub Pages 稳定托管：**
 
-👉暂未完工 [https://scpao5.github.io/dsrj/](https://scpao5.github.io/dsrj/)
+👉 [https://scpao5.github.io/dsrj/](https://scpao5.github.io/dsrj/)
 
 > 原作者的服务器：http://47.103.97.229/ds.html
 (但有时不稳定）
