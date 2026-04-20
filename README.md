@@ -20,12 +20,12 @@
 
 **推荐使用以下地址，由 GitHub Pages 稳定托管：**
 
-👉 [https://scpao5.github.io/dsrj/](https://scpao5.github.io/dsrj/)
+👉暂未完工 [https://scpao5.github.io/dsrj/](https://scpao5.github.io/dsrj/)
 
 > 原作者的服务器：http://47.103.97.229/ds.html
 (但有时不稳定）
 
-## 📥 百度网盘下载（本地文件）
+## 📥 文件下载（本地文件）
 
 - **链接**：`https://pan.baidu.com/s/1fwR5bpk6MD7AUeFFY3SqSQ?pwd=9191`
 - **提取码**：`9191`
