@@ -22,7 +22,7 @@
 
 👉暂未完工 [https://scpao5.github.io/dsrj/](https://scpao5.github.io/dsrj/)
 
-> 原作者的服务器：http://47.103.97.229/ds.html
+> 原作者的服务器：47.103.97.229/ds.html
 (但有时不稳定）
 
 ## 📥 文件下载（本地文件）
