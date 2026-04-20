@@ -27,7 +27,7 @@
 
 ## 📥 文件下载（本地文件）
 
-- **链接**：`https://pan.baidu.com/s/1fwR5bpk6MD7AUeFFY3SqSQ?pwd=9191`
+- **链接**：[百度网盘](https://pan.baidu.com/s/1fwR5bpk6MD7AUeFFY3SqSQ?pwd=9191)
 - **提取码**：`9191`
 
 ## 📱 手机游玩注意事项
