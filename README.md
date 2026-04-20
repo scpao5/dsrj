@@ -29,7 +29,7 @@
 
 - **链接**：[百度网盘](https://pan.baidu.com/s/1fwR5bpk6MD7AUeFFY3SqSQ?pwd=9191) [123云盘](https://www.123684.com/s/7VJwTd-gPHs3) [直链网盘](https://pan.tenire.com/down.php/6ca285212dd318d654fe41b3cf068f34.html) [GitHub加速](https://gh-proxy.com/https://github.com/scpao5/dsrj/releases/download/v2/dsrj_v2.html)
 - **提取码**：`9191`
-- **建议使用“GitHub加速”下载**
+- **建议使用`[github加速](https://gh-proxy.com/https://github.com/scpao5/dsrj/releases/download/v2/dsrj_v2.html)`下载**
 
 ## 📱 手机游玩注意事项
 
