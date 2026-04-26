@@ -16,9 +16,9 @@
 - 📱 **双端支持**：手机和电脑都能玩
 - 🏃 **跑酷环节**：结合动作与策略的玩法
 
-## 🕹️ 在线试玩（稳定版）
+## 🕹️ 在线试玩（不可使用，待修复）
 
-**推荐使用以下地址，由 GitHub Pages 稳定托管：**
+**推荐使用以下地址，由 GitHub Pages 托管：**
 
 👉 [https://scpao5.github.io/dsrj/](https://scpao5.github.io/dsrj/)
 
